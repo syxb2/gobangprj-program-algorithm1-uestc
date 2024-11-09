@@ -10,7 +10,7 @@
 #include<Windows.h>
 #include<conio.h>
 
-#include"game.h"
+#include"game.hpp"
 
 #pragma comment(lib,"winmm.lib")
 
