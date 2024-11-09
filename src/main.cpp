@@ -1,4 +1,4 @@
-#include "game.h"
+#include "game.hpp"
 
 //主函数部分
 int main() {
