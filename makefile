@@ -5,10 +5,14 @@ CC = g++
 CFLAGS = -Wall -g
 
 # 定义目标文件
-TARGET = game
+TARGET = game.exe
 
 # 定义源文件
-SRCS = game.cpp
+SRCS = ./src/game.cpp \
+	   ./src/computerPlayer.cpp \
+	   ./src/humanPlayer.cpp \
+	   ./src/userInterface.cpp \
+	   ./src/main.cpp \
 
 # 定义头文件
 HEADERS = game.h

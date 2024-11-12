@@ -14,6 +14,11 @@ struct position {
     int x, y;
 };
 
+int map[border][border] = { 0 };
+int score = 0;
+int MODE = 0;
+int m = 1;
+
 // 函数声明
 void menu();
 void loop();
