@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/baijiale/Documents/VisualStudioCode/c/Project_Gobang/Gobang.out'
+binary-path:     '/Users/baijiale/VisualStudioCode/c/Project_Gobang/Gobang.out'
 relocations:
   - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _Is_Win, symObjAddr: 0x0, symBinAddr: 0x100003D50, symSize: 0x1B4 }
   - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _Is_Win, symObjAddr: 0x0, symBinAddr: 0x100003D50, symSize: 0x1B4 }
